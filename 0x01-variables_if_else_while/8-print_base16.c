@@ -1,4 +1,3 @@
-#include <unistd.h>
 #include <stdio.h>
 
 /**
@@ -10,18 +9,14 @@
  */
 int main(void)
 {
-	char digit;
-	int index;
+	char di;
+	int i;
 
-	for (index = '0'; index <= '9'; index++)
-	{
-		putchar(index);
-	}
+	for (i = '0'; i <= '9'; i++)
+		putchar(i);
 
-	for (digit = 'a'; digit <= 'f'; digit++)
-	{
-		putchar(digit);
-	}
+	for (di = 'a'; di <= 'f'; di++)
+		putchar(di);
 
 	putchar('\n');
 
