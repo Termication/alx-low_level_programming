@@ -2,6 +2,8 @@
 
 /**
  * main - check the code
+ * 
+ * Description: for checking the code
  *
  * Return: Always 0.
  */
