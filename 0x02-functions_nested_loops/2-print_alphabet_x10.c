@@ -2,7 +2,7 @@
 
 /**
  * main - this function
- * print_alphabet_x10 - print the alphabest 10 times
+ * description: print_alphabet_x10 - print the alphabest 10 times
  * Return: void here
  */
 
