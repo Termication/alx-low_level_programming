@@ -1,1 +1,3 @@
-this readme for Pointers arrays and strings
+ALX Software engineering
+
+C PROGRAMMING
