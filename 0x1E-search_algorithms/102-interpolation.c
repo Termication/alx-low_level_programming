@@ -28,7 +28,7 @@ int interpolation_search(int *array, size_t size, int value)
 		fraction = (double)(end - start) / (array[end]
 				- array[start]) * (value - array[start]);
 		position = (size_t)(start + fraction);
-		printf("Value checked array[%zu]", position);
+		printf("Value checked array[%d]", (int)position);
 
 		if (position >= size)
 		{
